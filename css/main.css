@@ -76,9 +76,8 @@
   background: #383848;
   color: white;
   margin-top: 20px;
-
 }
-.about button a{
+.about button a {
   text-decoration: none;
   color: #fff;
   padding: 20px;
@@ -205,7 +204,7 @@
   background-color: #383848;
 }
 /* day time section */
-.day-time{
+.day-time {
   background-image: url(../img/daytime_bg.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -214,9 +213,106 @@
 .day-time img {
   padding-top: 30px;
 }
-.day-time h3{
+.day-time h3 {
   font-size: 32px;
   margin: 20px 0 10px;
 }
 
 /* day time section */
+/* Gallary */
+.Gallary {
+  padding: 8rem 0 6rem;
+  background-image: url(../img/offer-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Gallary h3 {
+  font-weight: 500;
+  font-size: 40px;
+  text-transform: capitalize;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.Gallary img {
+  width: 280px;
+  height: 200px;
+  border-radius: 20px;
+  margin: 30px 0;
+  opacity: 0.6;
+}
+.Gallary img:hover {
+  opacity: 1;
+}
+
+/* Gallary */
+/* contact */
+.contact {
+  background-color: #f4f2ed;
+  padding: 8rem 0;
+}
+.contact .first-heading  {
+  margin-bottom: 20px;
+  
+}
+.contact h2 {
+  color: #383848;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+.contact p {
+  color: #9a9a9a;
+}
+.contact p span {
+  padding-right: 10px;
+}
+.contact p span i {
+  font-size: 22px;
+}
+.contact .social-icons i {
+  padding: 0 0 0 20px;
+  font-size: 20px;
+}
+.contact form input {
+  display: block;
+  width: 100%;
+  padding: 20px 15px;
+  margin: 20px 0;
+  border: none;
+  background-color: #e3e2dd;
+}
+.contact form input:focus{
+  outline: none;
+}
+.contact form textarea{
+  display: block;
+  width: 100%;
+  padding: 20px 15px;
+  margin: 20px 0;
+  border: none;
+  background-color: #e3e2dd;
+}
+.contact form textarea:focus{
+  outline: none;
+}
+.contact .btn{
+  padding: 10px 30px;
+  color: #fff;
+}
+.contact .btn:hover{
+  background-color: #383848;
+}
+
+/* contact */
+
+/* foot */
+.foot{
+  background-color: #383848;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+}
+.foot p{
+  padding: 20px 10px;
+}
+/* foot */
