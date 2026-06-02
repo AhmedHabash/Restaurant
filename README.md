@@ -7,9 +7,14 @@ This project was created as a practice to improve my front-end development skill
 ---
 
 ## 📌 Live Preview
-You can run the project by opening:
 
-or using Live Server in VS Code.
+To view the project locally:
+
+1. Download or clone the repository
+2. Open the project folder
+3. Double click on `index.html`
+   OR
+   Open it using Live Server in VS Code
 
 ---
 
